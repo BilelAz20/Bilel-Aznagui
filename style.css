@@ -1,0 +1,85 @@
+body{
+	  margin: 100;
+	  padding: 0;
+}
+#nav{
+	margin-left: 0px
+	 height: 22vh;width: 100%;
+}
+#mainlist{
+	list-style: none;
+	position: absolute;
+	top: 0%;right: 0%;
+}
+li{
+	float: left;padding: 8px;
+	font-family: arial, helvetica, sans-serif;
+	font-size: 13px
+}
+#bottle{
+	position: absolute;
+	top: 20%; bottom: 30%;
+}
+
+#mg{
+     height: 24px;
+     width: 24px;
+}
+
+#google{
+	height: 180px;
+	width: 400px;
+	margin-left: 570px;
+}
+input{
+	   height: 40px;
+	   width: 580px;
+	   margin-left: 480px;
+	   padding-left: 5px;
+	   font-size: 20px;
+	  border: 1px solid #e5e5e5;
+	  border-radius: 1%;
+	  box-shadow:         0px 2px 0px 0px #e5e5e5;">
+
+}
+button{
+	    height: 40px;width:140px;
+	    background-color: #F6F6F6;
+	    font-size: 14px;color: #222222;
+	    margin-top:25px;
+	    border: 1px solid #E4E4E4
+
+}
+
+#footer{
+	      height: 55px;width: 1532px;
+	      background-color: #F2F2F2;
+	      border: 1px solid #E4E4E4;
+		  position: absolute;
+		  bottom: 2%
+
+
+}
+#secondlist{
+	         list-style: none;
+			 color: #6F6F6F;
+			 position: absolute;
+			 bottom: 2%; right: 60%
+			 
+}
+#info{
+	position: absolute;
+	left:240%; top:70%
+}
+#conf{
+	position: absolute;
+	left: 220%; top: 70% 
+}
+#condi{
+	position: absolute;
+	left: 200%; top: 70%
+}
+#para{
+	position:absolute;
+	left: 180%; top: 70%
+}
